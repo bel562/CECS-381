@@ -1,0 +1,7 @@
+Do problems 1-4
+
+Problem 1.  Use the following probability vector:
+
+p=[0.10,  0.15,  0.20,  0.35, 0.20]
+
+Problem 4.  Use the following values:  m=70,000  ;  k=7
